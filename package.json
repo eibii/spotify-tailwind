@@ -1,0 +1,26 @@
+{
+  "name": "@eibii/tailwindcss-spotify",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Praticando o conhecimento em Tailwindcss",
+  "author": "ERC Dev <suporte@ercdev.com.br> (https://www.ercdev.com.br)",
+  "homepage": "https://ercdev.com.br",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "nuxt3": "latest",
+    "postcss": "^8.4.5",
+    "pug": "^3.0.2",
+    "sass": "^1.49.9",
+    "tailwindcss": "^3.0.18"
+  },
+  "dependencies": {
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "bootstrap-icons": "^1.8.1"
+  }
+}
