@@ -23,4 +23,4 @@ Esta é uma reconstrução da landing page do Spotify, com o objetivo de pratica
 
 ## Autor
 
-- [Meet me](https://ercdev.com.br/)
+- [Me encontre](https://ercdev.com.br/)
