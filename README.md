@@ -12,7 +12,7 @@ Esta é uma reconstrução da landing page do Spotify, com o objetivo de pratica
 
 - [Em produção URL:](https://spotify-tailwind.ercdev.com.br/)
 
-## Meu proceso
+## Meu processo
 
 ### Construído com
 
