@@ -10,7 +10,7 @@ Esta é uma reconstrução da landing page do Spotify, com o objetivo de pratica
 
 ### Links
 
-- [Em produção URL:](https://spotify-tailwind.ercdev.com.br/)
+- [Em produção URL](https://mellifluous-blancmange-593d82.netlify.app/)
 
 ## Meu processo
 
